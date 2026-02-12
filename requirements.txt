@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+mangum>=0.17.0
+boto3
+pydantic
