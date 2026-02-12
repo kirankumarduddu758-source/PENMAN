@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# AWS SAM
+.aws-sam/
+
+# VSCode
+.vscode/
